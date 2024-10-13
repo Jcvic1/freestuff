@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freestuff.example.com/sitemap.xml
